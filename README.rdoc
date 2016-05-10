@@ -1,0 +1,5 @@
+== Collab
+
+Collab is a tool to facilitate collaboration with people you know. The ideal use case is for students not yet comfortable contributing to open source who still want to work with other people on projects.
+
+Still very much a work in progress, the goal is to help students at the Turing School for Software and Design to find and pitch projects outside of the curriculum.
