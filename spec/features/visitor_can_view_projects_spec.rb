@@ -8,9 +8,9 @@ RSpec.feature "Visitor visits root" do
     visit '/'
 
     within("#projects") do
+      expect(page).to have_content("Project0")
       expect(page).to have_content("Project1")
       expect(page).to have_content("Project2")
-      expect(page).to have_content("Project3")
     end
   end
 end
