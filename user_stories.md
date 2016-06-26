@@ -1,4 +1,4 @@
-As an unregistered user
+As a visitor
 When I visit the root page
 I expect to see links to project categories
 I expect to see links to the most recently started projects
