@@ -1,3 +1,4 @@
+{<img alt='Stories in Ready' src='https://badge.waffle.io/s-espinosa/collab.png?label=ready&title=Ready' />}[https://waffle.io/s-espinosa/collab]
 == Collab
 
 Collab is a tool to facilitate collaboration with people you know. The ideal use case is for students not yet comfortable contributing to open source who still want to work with other people on projects.
